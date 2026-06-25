@@ -62,11 +62,23 @@ Tends to automate everything. Currently building AI pipelines and multi-agent wo
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/LLM_Routing-412991?style=flat-square&logo=openai&logoColor=white)
 
-`MCP Servers` · `Multi-Agent Orchestration` · `Agentic Workflows` · `Prompt Engineering` · `Context Engineering`
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-8B5CF6?style=flat-square)
+![Multi-Agent Orchestration](https://img.shields.io/badge/Multi--Agent_Orchestration-7C3AED?style=flat-square)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-6D28D9?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-9333EA?style=flat-square)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-A21CAF?style=flat-square)
 
 **Architecture & Patterns**
 
-`DDD` · `Clean Architecture` · `Module Federation` · `Microservices` · `Monorepo` · `SOLID` · `TDD` · `SDD` · `Repository Pattern`
+![DDD](https://img.shields.io/badge/DDD-2563EB?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0284C7?style=flat-square)
+![Module Federation](https://img.shields.io/badge/Module_Federation-0891B2?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-0D9488?style=flat-square)
+![Monorepo](https://img.shields.io/badge/Monorepo-059669?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-DC2626?style=flat-square)
+![TDD](https://img.shields.io/badge/TDD-EA580C?style=flat-square)
+![SDD](https://img.shields.io/badge/SDD-D97706?style=flat-square)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-65A30D?style=flat-square)
 
 ---
 
