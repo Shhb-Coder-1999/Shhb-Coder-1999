@@ -1,7 +1,9 @@
 ## Shahab Shafiee
 
-Software engineer · 4 yrs · Vue / React / FastAPI / TypeScript  
-Applying MSc Fall 2026 — HCI, cognitive load in SE tools, SE4AI
+Started in frontend, ended up reading papers on how developers think.
+
+4 years building fintech products at Part Software Group — Vue, React, TypeScript, FastAPI, Python.
+Lately spending time on what programming actually looks like when AI is in the loop, and whether the tools we're building for that are designed for humans or just shipped fast.
 
 ![views](https://komarev.com/ghpvcounter/?username=Shhb-Coder-1999&style=flat-square&color=6e6e6e&label=views)
 
