@@ -4,7 +4,10 @@ Software engineer who got too curious about the tools he was using.
 4 years building production systems at Part Software Group — Vue, React, FastAPI, Python.  
 Now spending time on the gap between how dev tools are designed and how people actually use them.
 
-![views](https://komarev.com/ghpvcounter/?username=Shhb-Coder-1999&style=flat-square&color=6e6e6e&label=views)
+---
+
+**BS Computer Science** · Sadjad University of Technology · Mashhad, Iran · GPA 3.40  
+**Frontend Engineer & Mentor** · Part Software Group · Aug 2022 – Present
 
 ---
 
@@ -23,7 +26,7 @@ Now spending time on the gap between how dev tools are designed and how people a
 
 ---
 
-**Projects**
+**University Projects**
 
 | Project | Stack |
 |---------|-------|
@@ -33,10 +36,6 @@ Now spending time on the gap between how dev tools are designed and how people a
 | [Microprocessor & Assembly](https://github.com/Shhb-Coder-1999/Microprocessor-and-Assembly-language) | ARM Cortex-M3 · C |
 | [Compiler — LALR(1)](https://github.com/Shhb-Coder-1999/compiler-lalr-parser) | Python |
 | [Computational Intelligence](https://github.com/Shhb-Coder-1999/computational-intelligence) | Python · NumPy |
-
----
-
-**Research interests** — HCI · cognitive load · SE4AI · AI-assisted engineering workflows
 
 ---
 
