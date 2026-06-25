@@ -1,9 +1,8 @@
 ## Shahab Shafiee
 
-Started in frontend, ended up reading papers on how developers think.
-
-4 years building fintech products at Part Software Group — Vue, React, TypeScript, FastAPI, Python.
-Lately spending time on what programming actually looks like when AI is in the loop, and whether the tools we're building for that are designed for humans or just shipped fast.
+Software engineer who got too curious about the tools he was using.  
+4 years building production systems at Part Software Group — Vue, React, FastAPI, Python.  
+Now spending time on the gap between how dev tools are designed and how people actually use them.
 
 ![views](https://komarev.com/ghpvcounter/?username=Shhb-Coder-1999&style=flat-square&color=6e6e6e&label=views)
 
