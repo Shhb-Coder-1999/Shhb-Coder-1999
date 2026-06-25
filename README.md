@@ -3,7 +3,7 @@
 Software engineer · 4 yrs · Vue / React / FastAPI / TypeScript  
 Applying MSc Fall 2026 — HCI, cognitive load in SE tools, SE4AI
 
-![views](https://komarev.com/ghpvcounter/?username=Shhb-Coder-1999&style=flat-square&color=grey&label=views)
+![views](https://komarev.com/ghpvcounter/?username=Shhb-Coder-1999&style=flat-square&color=6e6e6e&label=views)
 
 ---
 
@@ -42,4 +42,4 @@ Applying MSc Fall 2026 — HCI, cognitive load in SE tools, SE4AI
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-555?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahab-shafiee-219468209)
 [![Email](https://img.shields.io/badge/Email-555?style=flat-square&logo=gmail&logoColor=white)](mailto:shahabs789@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shhb-Coder-1999&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues&icon_color=555&title_color=333&text_color=555&bg_color=00000000" height="120" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shhb-Coder-1999&show_icons=true&hide_border=true&count_private=true&hide=issues&icon_color=888&title_color=555&text_color=666&theme=transparent" height="120" />
