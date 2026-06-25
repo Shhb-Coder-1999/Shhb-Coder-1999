@@ -1,78 +1,45 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shahab%20Shafiee&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20·%20Full-Stack%20·%20MSc%20Applicant&descAlignY=51&descSize=18)
+## Shahab Shafiee
 
-<div align="right">
-  <img src="https://komarev.com/ghpvcounter/?username=Shhb-Coder-1999&style=flat-square&color=58A6FF" alt="Profile Views"/>
-</div>
+Software engineer · 4 yrs · Vue / React / FastAPI / TypeScript  
+Applying MSc Fall 2026 — HCI, cognitive load in SE tools, SE4AI
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&width=600&lines=Vue.js+·+React+·+FastAPI+·+TypeScript;4+yrs+Fintech+%2F+Frontend+Engineering;AI-Assisted+Development+%26+Orchestration;MSc+Applicant+—+HCI+%26+SE4AI)](https://git.io/typing-svg)
-
-Software Engineer with **4+ years** building production fintech systems at Part Software Group —
-leading teams, architecting scalable frontends (DDD, Clean Architecture, monorepo), and integrating
-AI-assisted workflows. Currently doing full-stack (React 19 + FastAPI + Python) for personal research
-tooling and applying for MSc in **HCI, Cognitive Load in SE tools, and SE4AI**.
+![views](https://komarev.com/ghpvcounter/?username=Shhb-Coder-1999&style=flat-square&color=grey&label=views)
 
 ---
 
-### Tech Stack
+**Stack**
 
-**Frontend**
-[![Frontend Skills](https://skillicons.dev/icons?i=vue,nuxt,react,ts,js,html,css,tailwind,vite&perline=9)](https://skillicons.dev)
-
-**Backend & Data**
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,fastapi,python,sqlite,firebase&perline=5)](https://skillicons.dev)
-
-**Architecture & Tools**
-`DDD` · `Clean Architecture` · `Monorepo` · `TanStack Query` · `XState` · `Pinia`
-`Claude Code` · `Cursor` · `MCP Servers` · `Multi-Agent Orchestration`
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shhb-Coder-1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shhb-Coder-1999&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shhb-Coder-1999&theme=tokyonight&hide_border=true" />
-</div>
+![Vue](https://img.shields.io/badge/Vue-555?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-555?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-555?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-555?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-555?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-555?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-555?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-555?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-555?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-555?style=flat-square&logo=firebase&logoColor=white)
 
 ---
 
-### GitHub Trophies
+**Projects**
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Shhb-Coder-1999&theme=tokyonight&no-frame=true&column=6&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### Featured Projects
-
-| Project | Description | Stack |
-|---------|------------|-------|
-| [IoT Management System](https://github.com/Shhb-Coder-1999/iot-management-system) | Full-stack IoT dashboard with real-time sensor management | Node.js · Vue.js |
-| [Hospital Management](https://github.com/Shhb-Coder-1999/Hospital-Management-System-OOP-Project) | OOP capstone — patient/staff system with design patterns | C++ · OOP |
-| [AI Puzzle Solver](https://github.com/Shhb-Coder-1999/N-Puzzle-IDA-Star) | IDA* heuristic search with Vue.js visualization | JavaScript · Vue.js |
-| [Microprocessor & Assembly](https://github.com/Shhb-Coder-1999/Microprocessor-and-Assembly-language) | ARM Cortex-M3 programs — timers, interrupts, I/O | Assembly · C |
-| [Compiler — LALR(1) Parser](https://github.com/Shhb-Coder-1999/compiler-lalr-parser) | LALR(1) table generator + Pascal language parser | Python |
-| [Data Structures in C++](https://github.com/Shhb-Coder-1999/data-structures-cpp) | AVL Tree and Red-Black Tree from scratch | C++ |
+| Project | Stack |
+|---------|-------|
+| [IoT Management System](https://github.com/Shhb-Coder-1999/iot-management-system) | Node.js · Vue.js |
+| [Hospital Management](https://github.com/Shhb-Coder-1999/Hospital-Management-System-OOP-Project) | C++ · OOP |
+| [AI Puzzle Solver — IDA\*](https://github.com/Shhb-Coder-1999/N-Puzzle-IDA-Star) | JS · heuristic search |
+| [Microprocessor & Assembly](https://github.com/Shhb-Coder-1999/Microprocessor-and-Assembly-language) | ARM Cortex-M3 · C |
+| [Compiler — LALR(1)](https://github.com/Shhb-Coder-1999/compiler-lalr-parser) | Python |
+| [Computational Intelligence](https://github.com/Shhb-Coder-1999/computational-intelligence) | Python · NumPy |
 
 ---
 
-### Research Interests
-
-Applying to MSc programs in:
-- **Human-Computer Interaction (HCI)** — cognitive load in software engineering environments
-- **SE4AI** — engineering practices for building reliable AI-assisted systems
-- **Developer tooling** — how agentic AI workflows change programmer cognition and productivity
+**Research interests** — HCI · cognitive load · SE4AI · AI-assisted engineering workflows
 
 ---
 
-### Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-555?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahab-shafiee-219468209)
+[![Email](https://img.shields.io/badge/Email-555?style=flat-square&logo=gmail&logoColor=white)](mailto:shahabs789@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahab--shafiee-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/shahab-shafiee-219468209)
-[![Email](https://img.shields.io/badge/Email-sorooshbe23@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:sorooshbe23@gmail.com)
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)
+<img src="https://github-readme-stats.vercel.app/api?username=Shhb-Coder-1999&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues&icon_color=555&title_color=333&text_color=555&bg_color=00000000" height="120" />
