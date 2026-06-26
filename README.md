@@ -3,36 +3,29 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahab-shafiee-219468209)
 [![Email](https://img.shields.io/badge/shahabs789@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahabs789@gmail.com)
 
-B.Sc. Computer Science graduate and Frontend Engineer with 4+ years of professional experience designing and building production-grade fintech systems. At Part Software Group, I lead frontend architecture and engineering mentorship for banking applications serving 10,000+ daily users across three financial institutions, working across authentication, transaction flows, and regulatory compliance (eIDAS).
+Frontend Engineer and researcher with 4+ years building production-grade fintech systems, with a focus on HCI-grounded interface design.
 
-My undergraduate thesis — a cloud-based visual no-code strategy builder for financial markets, grounded in Cognitive Load Theory and end-user programming principles — received a grade of 19.5/20. I hold Exceptional Talent status (INEF) and have an active interest in Human-Computer Interaction research.
+---
+
+**Education**
+- B.Sc. Computer Science · Sadjad University of Technology · Mashhad, Iran · GPA 3.40 / 4.00
+  - Thesis: *Cloud-Based Visual No-Code Strategy Builder for Financial Markets* — 19.5 / 20
+  - Grounded in Cognitive Load Theory, direct manipulation, and end-user programming principles
+
+**Experience**
+- Frontend Engineer & Tech Lead · Part Software Group · Aug 2022 – Present
+  - Banking and fintech UX across 3 financial institutions · 10,000+ daily active users
+  - Authentication flows, transaction UX, regulatory compliance (eIDAS)
+  - Mentored 25 selected engineers out of 400 applicants in SPA development
+
+**Academic Recognition**
+- Exceptional Talent · Iran's National Elites Foundation (INEF) · Military service exemption
 
 ---
 
 **Research Interests**
 
 Human-Computer Interaction &nbsp;·&nbsp; Cognitive Load & Usability &nbsp;·&nbsp; End-User Programming &nbsp;·&nbsp; Software Engineering for AI (SE4AI) &nbsp;·&nbsp; Developer Cognition &nbsp;·&nbsp; AI Ethics &nbsp;·&nbsp; Affective Computing &nbsp;·&nbsp; Computational Cognitive Science
-
----
-
-**B.Sc. Computer Science** · Sadjad University of Technology · Mashhad, Iran · GPA 3.40  
-**Frontend Engineer & Tech Lead** · Part Software Group · Aug 2022 – Present
-
----
-
----
-
-**University Projects**
-
-| Project | Course | Stack |
-|---------|--------|-------|
-| [CBFMS — Cloud-Based Financial Market Strategy Builder](https://github.com/Shhb-Coder-1999/CBFMS) | **B.Sc. Thesis** · Sup. [Prof. Bakhtiari](https://scholar.google.com/citations?user=eYr8wlYAAAAJ&hl=en) | Vue 3 · Quasar · Vue Flow · KlineCharts · TensorFlow.js · Polygon.io |
-| [IoT Management System](https://github.com/Shhb-Coder-1999/iot-management-system) | Internet of Things | Node.js · Vue.js |
-| [Hospital Management](https://github.com/Shhb-Coder-1999/Hospital-Management-System-OOP-Project) | OOP & Advanced Programming | C++ · OOP |
-| [AI Puzzle Solver — IDA\*](https://github.com/Shhb-Coder-1999/N-Puzzle-IDA-Star) | Artificial Intelligence | JS · heuristic search |
-| [Microprocessor & Assembly](https://github.com/Shhb-Coder-1999/Microprocessor-and-Assembly-language) | Microprocessor Architecture | ARM Cortex-M3 · C |
-| [Compiler — LALR(1)](https://github.com/Shhb-Coder-1999/compiler-lalr-parser) | Compiler Design | Python |
-| [Computational Intelligence](https://github.com/Shhb-Coder-1999/computational-intelligence) | Computational Intelligence | Python · NumPy |
 
 ---
 
