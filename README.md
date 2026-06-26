@@ -8,8 +8,8 @@ Software Engineer and researcher with 4+ years building production-grade fintech
 ---
 
 **Education**
-- B.Sc. Computer Science · Sadjad University of Technology · Mashhad, Iran · GPA 3.40 / 4.00
-  - Thesis: *Cloud-Based Visual No-Code Strategy Builder for Financial Markets* — 19.5 / 20
+- B.Sc. Computer Science · Sadjad University of Technology · Mashhad, Iran · GPA 3.40 / 4.00 (17.01 / 20)
+  - Thesis: *Cloud-Based Visual No-Code Strategy Builder for Financial Markets* — 19.5 / 20 (GPA 3.90 / 4.00)
   - Grounded in Cognitive Load Theory, direct manipulation, and end-user programming principles
 
 **Experience**
