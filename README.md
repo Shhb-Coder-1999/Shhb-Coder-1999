@@ -31,6 +31,20 @@ Human-Computer Interaction &nbsp;·&nbsp; Cognitive Load & Usability &nbsp;·&nb
 
 ---
 
+**University Projects**
+
+| Project | Course | Stack |
+|---------|--------|-------|
+| [CBFMS — Cloud-Based Financial Market Strategy Builder](https://github.com/Shhb-Coder-1999/CBFMS) | **B.Sc. Thesis** · Sup. [Prof. Bakhtiari](https://scholar.google.com/citations?user=eYr8wlYAAAAJ&hl=en) | Vue 3 · Quasar · Vue Flow · KlineCharts · TensorFlow.js · Polygon.io |
+| [IoT Management System](https://github.com/Shhb-Coder-1999/iot-management-system) | Internet of Things | Node.js · Vue.js |
+| [Hospital Management](https://github.com/Shhb-Coder-1999/Hospital-Management-System-OOP-Project) | OOP & Advanced Programming | C++ · OOP |
+| [AI Puzzle Solver — IDA\*](https://github.com/Shhb-Coder-1999/N-Puzzle-IDA-Star) | Artificial Intelligence | JS · heuristic search |
+| [Microprocessor & Assembly](https://github.com/Shhb-Coder-1999/Microprocessor-and-Assembly-language) | Microprocessor Architecture | ARM Cortex-M3 · C |
+| [Compiler — LALR(1)](https://github.com/Shhb-Coder-1999/compiler-lalr-parser) | Compiler Design | Python |
+| [Computational Intelligence](https://github.com/Shhb-Coder-1999/computational-intelligence) | Computational Intelligence | Python · NumPy |
+
+---
+
 **Frontend**
 
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
