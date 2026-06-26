@@ -3,14 +3,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahab-shafiee-219468209)
 [![Email](https://img.shields.io/badge/shahabs789@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahabs789@gmail.com)
 
-Software engineer who got too curious about the tools he was using.  
-4 years building production fintech systems at Part Software Group — Vue, React, FastAPI, Python.  
-Tends to automate everything. Currently building AI pipelines and multi-agent workflows with LLMs.
+B.Sc. Computer Science graduate and Frontend Engineer with 4+ years of professional experience designing and building production-grade fintech systems. At Part Software Group, I lead frontend architecture and engineering mentorship for banking applications serving 10,000+ daily users across three financial institutions, working across authentication, transaction flows, and regulatory compliance (eIDAS).
+
+My undergraduate thesis — a cloud-based visual no-code strategy builder for financial markets, grounded in Cognitive Load Theory and end-user programming principles — received a grade of 19.5/20 and has been developed into a full academic paper submitted to ACM CHI 2026. I hold Exceptional Talent status (INEF) and am currently applying to M.Sc. programs in Computer Science at Canadian universities for Fall 2026, with a focus on Human-Computer Interaction research.
 
 ---
 
-**BS Computer Science** · Sadjad University of Technology · Mashhad, Iran · GPA 3.40  
-**Frontend Engineer & Mentor** · Part Software Group · Aug 2022 – Present
+**Research Interests**
+
+Human-Computer Interaction &nbsp;·&nbsp; Cognitive Load & Usability &nbsp;·&nbsp; End-User Programming &nbsp;·&nbsp; Software Engineering for AI (SE4AI) &nbsp;·&nbsp; Developer Cognition &nbsp;·&nbsp; AI Ethics &nbsp;·&nbsp; Affective Computing &nbsp;·&nbsp; Computational Cognitive Science
+
+---
+
+**B.Sc. Computer Science** · Sadjad University of Technology · Mashhad, Iran · GPA 3.40  
+**Frontend Engineer & Tech Lead** · Part Software Group · Aug 2022 – Present
 
 ---
 
