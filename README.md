@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahab-shafiee-219468209)
 [![Email](https://img.shields.io/badge/shahabs789@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahabs789@gmail.com)
 
-Frontend Engineer and researcher with 4+ years building production-grade fintech systems, with a focus on HCI-grounded interface design.
+Software Engineer and researcher with 4+ years building production-grade fintech systems, with a focus on HCI-grounded interface design.
 
 ---
 
@@ -13,7 +13,7 @@ Frontend Engineer and researcher with 4+ years building production-grade fintech
   - Grounded in Cognitive Load Theory, direct manipulation, and end-user programming principles
 
 **Experience**
-- Frontend Engineer & Tech Lead · Part Software Group · Aug 2022 – Present
+- Software Engineer & Tech Lead · Part Software Group · Aug 2022 – Present
   - Banking and fintech UX across 3 financial institutions · 10,000+ daily active users
   - Authentication flows, transaction UX, regulatory compliance (eIDAS)
   - Mentored 25 selected engineers out of 400 applicants in SPA development
