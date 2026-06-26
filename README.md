@@ -5,7 +5,7 @@
 
 B.Sc. Computer Science graduate and Frontend Engineer with 4+ years of professional experience designing and building production-grade fintech systems. At Part Software Group, I lead frontend architecture and engineering mentorship for banking applications serving 10,000+ daily users across three financial institutions, working across authentication, transaction flows, and regulatory compliance (eIDAS).
 
-My undergraduate thesis — a cloud-based visual no-code strategy builder for financial markets, grounded in Cognitive Load Theory and end-user programming principles — received a grade of 19.5/20 and has been developed into a full academic paper submitted to ACM CHI 2026. I hold Exceptional Talent status (INEF) and am currently applying to M.Sc. programs in Computer Science at Canadian universities for Fall 2026, with a focus on Human-Computer Interaction research.
+My undergraduate thesis — a cloud-based visual no-code strategy builder for financial markets, grounded in Cognitive Load Theory and end-user programming principles — received a grade of 19.5/20. I hold Exceptional Talent status (INEF) and have an active interest in Human-Computer Interaction research.
 
 ---
 
