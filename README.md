@@ -86,6 +86,7 @@ Tends to automate everything. Currently building AI pipelines and multi-agent wo
 
 | Project | Course | Stack |
 |---------|--------|-------|
+| [CBFMS — Cloud-Based Financial Market Strategy Builder](https://github.com/Shhb-Coder-1999/CBFMS) | **B.Sc. Thesis** · 19.5 / 20 | Vue 3 · Quasar · Vue Flow · KlineCharts · TensorFlow.js · Polygon.io |
 | [IoT Management System](https://github.com/Shhb-Coder-1999/iot-management-system) | Internet of Things | Node.js · Vue.js |
 | [Hospital Management](https://github.com/Shhb-Coder-1999/Hospital-Management-System-OOP-Project) | OOP & Advanced Programming | C++ · OOP |
 | [AI Puzzle Solver — IDA\*](https://github.com/Shhb-Coder-1999/N-Puzzle-IDA-Star) | Artificial Intelligence | JS · heuristic search |
