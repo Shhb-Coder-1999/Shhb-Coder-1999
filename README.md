@@ -13,12 +13,12 @@ Software Engineer & Tech Lead · 4+ yrs building banking/fintech UX for 10K+ DAU
 
 **Industry Projects**
 
-| Project | Company | Description | Key Highlights | Stack |
-|---------|---------|-------------|----------------|-------|
-| [Vira AI Platform](https://web.ivira.ai) | Part Software Group | AI assistant platform rebuilt with DDD-based Clean Architecture and a Material Design token system | Core Web Vitals 70→90+, led 2 devs, Nuxt 4 monorepo migration, centralized Sentry with 8+ dashboards, PWA + Android delivery | Nuxt 4 · Vite 7 · Shadcn · Tailwind · Sentry · Capacitor · MCP Servers |
-| EU-Standard Digital Signing & Cheque System | Part Software Group | Unified digital signature and loan-guarantee platform deployed across 2+ banking institutions | XState-driven navigation, polyrepo with Git submodules + pnpm workspaces, versioned UI kit with tree-shaking, mentored 3+ devs | Vue · XState · pnpm workspaces · Git submodules |
-| Banking Operations & Employee Portal | Part Software Group | Online account opening and loan services for Omid Bank with support and employee panels | 10K+ daily active users, non-in-person account opening, qard al-hasanah loans, concurrent delivery across 3+ teams | Vue · Nuxt |
-| AI-Driven Foreign Identity Verification | Part Software Group | AI-powered KYC platform (Ferashenasa) adopted by Blu Bank, Bank Resalat, and Post Bank | Backend-less microservices with API Gateway, Clean Architecture + DDD, multi-language support (3+ langs), custom design system | Vue · Clean Architecture · DDD · Microservices |
+| Project | Domain | Description | AI-Augmented Practices | Stack |
+|---------|--------|-------------|------------------------|-------|
+| AI Platform UI Re-Architecture | Fintech SaaS | Production platform rebuilt with DDD Clean Architecture + Material Design token system; shipped as PWA + Android | MCP+Sentry agentic debugging; loop engineering for autonomous refactoring sprints; context engineering for 2-dev team DX | Nuxt 4 · Vite 7 · Shadcn · Tailwind · Sentry · Capacitor · MCP Servers |
+| Digital Signing & Loan Guarantee Platform | Banking Infrastructure | EU-standard signing & loan-guarantee system across 2+ banking institutions; polyrepo with XState-driven navigation | Agent harness for component API review; prompt-engineered migration planning across Git submodules + pnpm workspaces | Vue · XState · pnpm workspaces · Git submodules |
+| Digital Banking Portal | Banking | Online account opening + loan services with support & employee panels for 10K+ daily active users | Loop-driven test generation; context engineering for cross-team alignment across 3+ concurrent dev teams | Vue · Nuxt |
+| AI-Driven Identity Verification Platform | Regtech / KYC | AI-powered KYC platform adopted by 3+ major banks; backend-less microservices with API Gateway | Prompt-engineered identity validation pipeline; multi-agent validation with Clean Architecture + DDD bounded contexts | Vue · Clean Architecture · DDD · Microservices |
 
 ---
 
