@@ -13,9 +13,13 @@ Software Engineer & Tech Lead · 4+ yrs building banking/fintech UX for 10K+ DAU
 
 **Industry Projects**
 
-| Domain | Description | Stack |
-|--------|-------------|-------|
-| Academic Research Intelligence Tool | Full-stack SPA + AI pipeline for supervised academic research discovery — multi-provider LLM routing (Claude, Gemini, DeepSeek), knowledge graph via Neo4j, enrichment from OpenAlex · CrossRef · Exa, AgentClaimGuard validation, multi-agent orchestration with context-engineered harness | React 19 · FastAPI · SQLite · TanStack Query · Tailwind · Firebase · Graphiti · Neo4j · MCP Servers |
+| Project | Domain | Description | Stack |
+|---------|--------|-------------|-------|
+| AI Platform UI Re-Architecture | Fintech SaaS | Production platform rebuilt with DDD Clean Architecture + Material Design token system; Core Web Vitals 70→90+; shipped as PWA + Android | Nuxt 4 · Vite 7 · Shadcn · Tailwind · Sentry · Capacitor · MCP Servers |
+| Digital Signing & Loan Guarantee Platform | Banking Infrastructure | EU-standard signing & loan-guarantee system across 2+ banking institutions; versioned UI kit; XState-driven navigation flows | Vue · XState · pnpm workspaces · Git submodules |
+| Digital Banking Portal | Banking | Online account opening + loan services with support & employee panels for 10K+ daily active users | Vue · Nuxt |
+| AI-Driven Identity Verification Platform | Regtech / KYC | AI-powered KYC platform adopted by 3+ major banks; backend-less microservices with API Gateway; Clean Architecture + DDD; custom design system | Vue · Clean Architecture · DDD · Microservices |
+| Research Intelligence Platform | Academic / AI Tooling | Full-stack SPA + multi-agent AI pipeline for academic opportunity discovery — multi-provider LLM routing (Claude, Gemini, DeepSeek), knowledge graph, enrichment chain (OpenAlex → CrossRef → Exa), AgentClaimGuard validation harness | React 19 · FastAPI · SQLite · TanStack Query · Tailwind · Firebase · Neo4j · MCP Servers |
 
 ---
 
