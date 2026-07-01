@@ -19,6 +19,7 @@ Software Engineer & Tech Lead · 4+ yrs building banking/fintech UX for 10K+ DAU
 | Digital Signing & Loan Guarantee Platform | Banking Infrastructure | EU-standard signing & loan-guarantee system across 2+ banking institutions; versioned UI kit; XState-driven navigation flows | Vue · XState · pnpm workspaces · Git submodules |
 | Digital Banking Portal | Banking | Online account opening + loan services with support & employee panels for 10K+ daily active users | Vue · Nuxt |
 | AI-Driven Identity Verification Platform | Regtech / KYC | AI-powered KYC platform adopted by 3+ major banks; backend-less microservices with API Gateway; Clean Architecture + DDD; custom design system | Vue · Clean Architecture · DDD · Microservices |
+| Mining Operations & Asset Management API | Industrial / Mining | MVC-style REST API for mine & machine lifecycle — permission-based auth, task/session tracking, machine transfer history, stop-type analytics, and AI-generated performance reports | Fastify · Prisma · PostgreSQL · TypeBox · JWT · OpenAI |
 | Research Intelligence Platform | Academic / AI Tooling | Full-stack SPA + multi-agent AI pipeline for academic opportunity discovery — multi-provider LLM routing (Claude, Gemini, DeepSeek), knowledge graph, enrichment chain (OpenAlex → CrossRef → Exa), AgentClaimGuard validation harness | React 19 · FastAPI · SQLite · TanStack Query · Tailwind · Firebase · Neo4j · MCP Servers |
 
 ---
