@@ -24,6 +24,7 @@ Software Engineer & Tech Lead · 4+ yrs building banking/fintech UX for 10K+ DAU
 | [Fuzzy, Neural & Evolutionary Algorithm Suite](https://github.com/Shhb-Coder-1999/computational-intelligence) | Computational Intelligence | Implementations of fuzzy systems, neural networks, and evolutionary algorithms | Fuzzy sets & inference systems, MLP/backpropagation, genetic algorithms, evolutionary strategies, swarm intelligence | Python · NumPy |
 | [Self-Balancing Binary Search Tree Suite](https://github.com/Shhb-Coder-1999/data-structures-cpp) | Data Structures | AVL Tree and Red-Black Tree built from scratch with full insertion, deletion, and rotation logic | BST properties, AVL rotations & balance factors, Red-Black tree invariants, tree traversal, amortized complexity | C++ |
 | [Python OOP, Algorithms & GUI App Exercises](https://github.com/Shhb-Coder-1999/Learn-Python) | OS Lab | Lab exercises covering OOP design, classic algorithms, desktop GUI apps, and SQLite integration | Python OOP, algorithm implementation, GUI programming (PyQt5), SQLite CRUD, event-driven design | Python · PyQt5 · SQLite |
+| [Speech Feature Extractor & Speaker Verifier](https://github.com/Shhb-Coder-1999/Speech-Signal-Processing-using-python) | Multimedia Systems | Audio pipeline that extracts MFCC/LPC features from .wav recordings and compares speakers via Dynamic Time Warping | MFCC feature extraction, Linear Predictive Coding (LPC), Dynamic Time Warping (DTW), zero-crossing rate, spectral analysis | Python · librosa · NumPy · SciPy |
 
 ---
 
