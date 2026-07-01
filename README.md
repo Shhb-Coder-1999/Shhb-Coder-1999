@@ -3,45 +3,25 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahab-shafiee-219468209)
 [![Email](https://img.shields.io/badge/shahabs789@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahabs789@gmail.com)
 
-Software Engineer and researcher with 4+ years building production-grade fintech systems, with a focus on HCI-grounded interface design.
+Software Engineer & Tech Lead · 4+ yrs building banking/fintech UX for 10K+ DAU · HCI researcher
 
----
+**B.Sc. CS** · Sadjad University of Technology · GPA 3.40/4 · Thesis: *Cloud-Based Visual No-Code Strategy Builder* (3.90/4 — Cognitive Load Theory, Direct Manipulation, End-User Programming) · **Exceptional Talent** — Iran's National Elites Foundation
 
-**Education**
-- B.Sc. Computer Science · Sadjad University of Technology · Mashhad, Iran · GPA 3.40 / 4.00 (17.01 / 20)
-  - Thesis: *Cloud-Based Visual No-Code Strategy Builder for Financial Markets* — GPA 3.90 / 4.00 (19.5 / 20)
-    - Grounded in Cognitive Load Theory, direct manipulation, and end-user programming principles
-
-**Experience**
-- Software Engineer & Tech Lead · Part Software Group · Aug 2022 – Present
-  - Banking and fintech UX across 3 financial institutions · 10,000+ daily active users
-  - Authentication flows, transaction UX, regulatory compliance (eIDAS)
-  - Mentored 25 selected engineers out of 400 applicants in SPA development
-
-**Academic Recognition**
-- Exceptional Talent · Iran's National Elites Foundation (INEF) · Military service exemption
-
----
-
-**Research Interests**
-
-Human-Computer Interaction &nbsp;·&nbsp; Cognitive Load & Usability &nbsp;·&nbsp; End-User Programming &nbsp;·&nbsp; Software Engineering for AI (SE4AI) &nbsp;·&nbsp; Developer Cognition &nbsp;·&nbsp; AI Ethics &nbsp;·&nbsp; Affective Computing &nbsp;·&nbsp; Computational Cognitive Science
-
----
+**Research Interests:** HCI · Cognitive Load & Usability · End-User Programming · SE4AI · Developer Cognition · AI Ethics · Affective Computing · Computational Cognitive Science
 
 ---
 
 **University Projects**
 
-| Project | Course | Stack |
-|---------|--------|-------|
-| [CBFMS — Cloud-Based Financial Market Strategy Builder](https://github.com/Shhb-Coder-1999/CBFMS) | **B.Sc. Thesis** · Sup. [Prof. Bakhtiari](https://scholar.google.com/citations?user=eYr8wlYAAAAJ&hl=en) | Vue 3 · Quasar · Vue Flow · KlineCharts · TensorFlow.js · Polygon.io |
-| [IoT Management System](https://github.com/Shhb-Coder-1999/iot-management-system) | Internet of Things | Node.js · Vue.js |
-| [Hospital Management](https://github.com/Shhb-Coder-1999/Hospital-Management-System-OOP-Project) | OOP & Advanced Programming | C++ · OOP |
-| [AI Puzzle Solver — IDA\*](https://github.com/Shhb-Coder-1999/N-Puzzle-IDA-Star) | Artificial Intelligence | JS · heuristic search |
-| [Microprocessor & Assembly](https://github.com/Shhb-Coder-1999/Microprocessor-and-Assembly-language) | Microprocessor Architecture | ARM Cortex-M3 · C |
-| [Compiler — LALR(1)](https://github.com/Shhb-Coder-1999/compiler-lalr-parser) | Compiler Design | Python |
-| [Computational Intelligence](https://github.com/Shhb-Coder-1999/computational-intelligence) | Computational Intelligence | Python · NumPy |
+| Project | Course | Description | Core Concepts Learned | Stack |
+|---------|--------|-------------|----------------------|-------|
+| [CBFMS — Cloud-Based Financial Market Strategy Builder](https://github.com/Shhb-Coder-1999/CBFMS) | **B.Sc. Thesis** · Sup. [Prof. Bakhtiari](https://scholar.google.com/citations?user=eYr8wlYAAAAJ&hl=en) | Visual drag-and-drop strategy builder for financial markets with backtesting & ML signal integration | Cognitive Load Theory, direct manipulation, end-user programming, visual programming languages, state machine design | Vue 3 · Quasar · Vue Flow · KlineCharts · TensorFlow.js · Polygon.io |
+| [IoT Management System](https://github.com/Shhb-Coder-1999/iot-management-system) | Internet of Things | Real-time dashboard to monitor and control IoT devices and sensor data | IoT protocols (MQTT/HTTP), sensor data flows, device lifecycle management, REST API design, real-time event handling | Node.js · Vue.js |
+| [Hospital Management](https://github.com/Shhb-Coder-1999/Hospital-Management-System-OOP-Project) | OOP & Advanced Programming | Hospital management system covering patients, staff, and billing | Encapsulation, inheritance, polymorphism, abstraction, C++ streams, file I/O, UML class design | C++ · OOP |
+| [AI Puzzle Solver — IDA\*](https://github.com/Shhb-Coder-1999/N-Puzzle-IDA-Star) | Artificial Intelligence | Heuristic N-Puzzle solver using Iterative Deepening A* | Informed search (A*, IDA*), admissible heuristics (Manhattan distance), search space complexity, algorithm analysis | JS · heuristic search |
+| [Microprocessor & Assembly](https://github.com/Shhb-Coder-1999/Microprocessor-and-Assembly-language) | Microprocessor Architecture | Bare-metal LPC1768 programs: GPIO, timers, UART, PWM, ADC/DAC, interrupts | ARM Cortex-M3 architecture, peripheral registers, interrupt handling, timers/PWM, UART serial, ADC/DAC conversion, Keil toolchain | ARM Cortex-M3 · C |
+| [Compiler — LALR(1)](https://github.com/Shhb-Coder-1999/compiler-lalr-parser) | Compiler Design | End-to-end compiler: lexer → LALR(1) parser → semantic analysis → code generator | Lexical analysis (DFA/tokenization), context-free grammars, LALR(1) parsing tables, syntax-directed translation, symbol tables | Python |
+| [Computational Intelligence](https://github.com/Shhb-Coder-1999/computational-intelligence) | Computational Intelligence | Implementations of fuzzy systems, neural networks, and evolutionary algorithms | Fuzzy sets & inference systems, MLP/backpropagation, genetic algorithms, evolutionary strategies, swarm intelligence | Python · NumPy |
 
 ---
 
@@ -110,5 +90,3 @@ Human-Computer Interaction &nbsp;·&nbsp; Cognitive Load & Usability &nbsp;·&nb
 ![TDD](https://img.shields.io/badge/TDD-EA580C?style=flat-square)
 ![SDD](https://img.shields.io/badge/SDD-D97706?style=flat-square)
 ![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-65A30D?style=flat-square)
-
----
