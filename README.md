@@ -13,12 +13,9 @@ Software Engineer & Tech Lead · 4+ yrs building banking/fintech UX for 10K+ DAU
 
 **Industry Projects**
 
-| Project | Domain | Description | AI-Augmented Practices | Stack |
-|---------|--------|-------------|------------------------|-------|
-| AI Platform UI Re-Architecture | Fintech SaaS | Production platform rebuilt with DDD Clean Architecture + Material Design token system; shipped as PWA + Android | MCP+Sentry agentic debugging; loop engineering for autonomous refactoring sprints; context engineering for 2-dev team DX | Nuxt 4 · Vite 7 · Shadcn · Tailwind · Sentry · Capacitor · MCP Servers |
-| Digital Signing & Loan Guarantee Platform | Banking Infrastructure | EU-standard signing & loan-guarantee system across 2+ banking institutions; polyrepo with XState-driven navigation | Agent harness for component API review; prompt-engineered migration planning across Git submodules + pnpm workspaces | Vue · XState · pnpm workspaces · Git submodules |
-| Digital Banking Portal | Banking | Online account opening + loan services with support & employee panels for 10K+ daily active users | Loop-driven test generation; context engineering for cross-team alignment across 3+ concurrent dev teams | Vue · Nuxt |
-| AI-Driven Identity Verification Platform | Regtech / KYC | AI-powered KYC platform adopted by 3+ major banks; backend-less microservices with API Gateway | Prompt-engineered identity validation pipeline; multi-agent validation with Clean Architecture + DDD bounded contexts | Vue · Clean Architecture · DDD · Microservices |
+| Domain | Description | Stack |
+|--------|-------------|-------|
+| Academic Research Intelligence Tool | Full-stack SPA + AI pipeline for supervised academic research discovery — multi-provider LLM routing (Claude, Gemini, DeepSeek), knowledge graph via Neo4j, enrichment from OpenAlex · CrossRef · Exa, AgentClaimGuard validation, multi-agent orchestration with context-engineered harness | React 19 · FastAPI · SQLite · TanStack Query · Tailwind · Firebase · Graphiti · Neo4j · MCP Servers |
 
 ---
 
