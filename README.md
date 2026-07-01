@@ -11,6 +11,17 @@ Software Engineer & Tech Lead · 4+ yrs building banking/fintech UX for 10K+ DAU
 
 ---
 
+**Industry Projects**
+
+| Project | Company | Description | Key Highlights | Stack |
+|---------|---------|-------------|----------------|-------|
+| [Vira AI Platform](https://web.ivira.ai) | Part Software Group | AI assistant platform rebuilt with DDD-based Clean Architecture and a Material Design token system | Core Web Vitals 70→90+, led 2 devs, Nuxt 4 monorepo migration, centralized Sentry with 8+ dashboards, PWA + Android delivery | Nuxt 4 · Vite 7 · Shadcn · Tailwind · Sentry · Capacitor · MCP Servers |
+| EU-Standard Digital Signing & Cheque System | Part Software Group | Unified digital signature and loan-guarantee platform deployed across 2+ banking institutions | XState-driven navigation, polyrepo with Git submodules + pnpm workspaces, versioned UI kit with tree-shaking, mentored 3+ devs | Vue · XState · pnpm workspaces · Git submodules |
+| Banking Operations & Employee Portal | Part Software Group | Online account opening and loan services for Omid Bank with support and employee panels | 10K+ daily active users, non-in-person account opening, qard al-hasanah loans, concurrent delivery across 3+ teams | Vue · Nuxt |
+| AI-Driven Foreign Identity Verification | Part Software Group | AI-powered KYC platform (Ferashenasa) adopted by Blu Bank, Bank Resalat, and Post Bank | Backend-less microservices with API Gateway, Clean Architecture + DDD, multi-language support (3+ langs), custom design system | Vue · Clean Architecture · DDD · Microservices |
+
+---
+
 **University Projects**
 
 | Project | Course | Description | Core Concepts Learned | Stack |
