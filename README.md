@@ -3,11 +3,26 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahab-shafiee-219468209)
 [![Email](https://img.shields.io/badge/shahabs789@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahabs789@gmail.com)
 
-Software Engineer & Tech Lead · 4+ yrs building banking/fintech UX for 10K+ DAU · HCI researcher
+Software Engineer & Tech Lead · 4+ yrs building banking/fintech UX for 10K+ DAU · HCI enthusiast
 
 **B.Sc. CS** · Sadjad University of Technology · GPA 3.40/4 · Thesis: *Cloud-Based Visual No-Code Strategy Builder* (3.90/4 — Cognitive Load Theory, Direct Manipulation, End-User Programming) · **Exceptional Talent** — Iran's National Elites Foundation
 
-**Research Interests:** HCI · Cognitive Load & Usability · End-User Programming · SE4AI · Developer Cognition · AI Ethics · Affective Computing · Computational Cognitive Science
+---
+
+**University Project**
+
+| Project | Course | Description | Core Concepts Learned | Stack |
+|---------|--------|-------------|----------------------|-------|
+| [Visual No-Code Trading Strategy Builder](https://github.com/Shhb-Coder-1999/CBFMS) | **B.Sc. Thesis** · Sup. [Prof. Bakhtiari](https://scholar.google.com/citations?user=eYr8wlYAAAAJ&hl=en) | Visual drag-and-drop strategy builder for financial markets with backtesting & ML signal integration | Cognitive Load Theory, direct manipulation, end-user programming, visual programming languages, state machine design | Vue 3 · Quasar · Vue Flow · KlineCharts · TensorFlow.js · Polygon.io |
+| [Sliding Puzzle Auto-Solver](https://github.com/Shhb-Coder-1999/N-Puzzle-IDA-Star) | Artificial Intelligence | Heuristic N-Puzzle solver using Iterative Deepening A* | Informed search (A*, IDA*), admissible heuristics (Manhattan distance), search space complexity, algorithm analysis | JS · heuristic search |
+| [Fuzzy, Neural & Evolutionary Algorithm Suite](https://github.com/Shhb-Coder-1999/computational-intelligence) | Computational Intelligence · Sup. [Prof. Aminian](https://scholar.google.com/citations?user=xht4HcwAAAAJ&hl=en) | Implementations of fuzzy systems, neural networks, and evolutionary algorithms | Fuzzy sets & inference systems, MLP/backpropagation, genetic algorithms, evolutionary strategies, swarm intelligence | Python · NumPy |
+| [Custom Language Compiler](https://github.com/Shhb-Coder-1999/compiler-lalr-parser) | Compiler Design · Sup. [Prof. Haghighi](https://www.linkedin.com/in/mehdi-salkhordeh-haghighi-2a339a1a/) · [Scholar](https://scholar.google.com/citations?user=h6qw4DgAAAAJ&hl=en) | End-to-end compiler: lexer → LALR(1) parser → semantic analysis → code generator | Lexical analysis (DFA/tokenization), context-free grammars, LALR(1) parsing tables, syntax-directed translation, symbol tables | Python |
+| [Self-Balancing Binary Search Tree Suite](https://github.com/Shhb-Coder-1999/data-structures-cpp) | Data Structures · Sup. [Prof. Rajaei](https://scholar.google.com/citations?user=UjqIDvkAAAAJ&hl=en) | AVL Tree and Red-Black Tree built from scratch with full insertion, deletion, and rotation logic | BST properties, AVL rotations & balance factors, Red-Black tree invariants, tree traversal, amortized complexity | C++ |
+| [Speech Feature Extractor & Speaker Verifier](https://github.com/Shhb-Coder-1999/Speech-Signal-Processing-using-python) | Multimedia Systems · Sup. [Prof. Rajaei](https://scholar.google.com/citations?user=UjqIDvkAAAAJ&hl=en) | Audio pipeline that extracts MFCC/LPC features from .wav recordings and compares speakers via Dynamic Time Warping | MFCC feature extraction, Linear Predictive Coding (LPC), Dynamic Time Warping (DTW), zero-crossing rate, spectral analysis | Python · librosa · NumPy · SciPy |
+| [Real-Time IoT Device Monitor & Controller](https://github.com/Shhb-Coder-1999/iot-management-system) | Internet of Things · Sup. [Prof. Bakhtiari](https://scholar.google.com/citations?user=eYr8wlYAAAAJ&hl=en) | Real-time dashboard to monitor and control IoT devices and sensor data | IoT protocols (MQTT/HTTP), sensor data flows, device lifecycle management, REST API design, real-time event handling | Node.js · Vue.js |
+| [ARM Bare-Metal Peripheral Controller](https://github.com/Shhb-Coder-1999/Microprocessor-and-Assembly-language) | Microprocessor Architecture | Bare-metal LPC1768 programs: GPIO, timers, UART, PWM, ADC/DAC, interrupts | ARM Cortex-M3 architecture, peripheral registers, interrupt handling, timers/PWM, UART serial, ADC/DAC conversion, Keil toolchain | ARM Cortex-M3 · C |
+| [Patient, Staff & Billing Management System](https://github.com/Shhb-Coder-1999/Hospital-Management-System-OOP-Project) | OOP & Advanced Programming · Sup. [Prof. Shamsaee](https://www.linkedin.com/in/reza-shamsaee-ba6319115?originalSubdomain=ir) | Hospital management system covering patients, staff, and billing | Encapsulation, inheritance, polymorphism, abstraction, C++ streams, file I/O, UML class design | C++ · OOP |
+| [Python OOP, Algorithms & GUI App Exercises](https://github.com/Shhb-Coder-1999/Learn-Python) | OS Lab | Lab exercises covering OOP design, classic algorithms, desktop GUI apps, and SQLite integration | Python OOP, algorithm implementation, GUI programming (PyQt5), SQLite CRUD, event-driven design | Python · PyQt5 · SQLite |
 
 ---
 
@@ -24,22 +39,7 @@ Software Engineer & Tech Lead · 4+ yrs building banking/fintech UX for 10K+ DAU
 
 ---
 
-**University Projects**
 
-| Project | Course | Description | Core Concepts Learned | Stack |
-|---------|--------|-------------|----------------------|-------|
-| [Visual No-Code Trading Strategy Builder](https://github.com/Shhb-Coder-1999/CBFMS) | **B.Sc. Thesis** · Sup. [Prof. Bakhtiari](https://scholar.google.com/citations?user=eYr8wlYAAAAJ&hl=en) | Visual drag-and-drop strategy builder for financial markets with backtesting & ML signal integration | Cognitive Load Theory, direct manipulation, end-user programming, visual programming languages, state machine design | Vue 3 · Quasar · Vue Flow · KlineCharts · TensorFlow.js · Polygon.io |
-| [Sliding Puzzle Auto-Solver](https://github.com/Shhb-Coder-1999/N-Puzzle-IDA-Star) | Artificial Intelligence | Heuristic N-Puzzle solver using Iterative Deepening A* | Informed search (A*, IDA*), admissible heuristics (Manhattan distance), search space complexity, algorithm analysis | JS · heuristic search |
-| [Fuzzy, Neural & Evolutionary Algorithm Suite](https://github.com/Shhb-Coder-1999/computational-intelligence) | Computational Intelligence · Sup. [Prof. Aminian](https://scholar.google.com/citations?user=xht4HcwAAAAJ&hl=en) | Implementations of fuzzy systems, neural networks, and evolutionary algorithms | Fuzzy sets & inference systems, MLP/backpropagation, genetic algorithms, evolutionary strategies, swarm intelligence | Python · NumPy |
-| [Custom Language Compiler](https://github.com/Shhb-Coder-1999/compiler-lalr-parser) | Compiler Design · Sup. [Prof. Haghighi](https://www.linkedin.com/in/mehdi-salkhordeh-haghighi-2a339a1a/) · [Scholar](https://scholar.google.com/citations?user=h6qw4DgAAAAJ&hl=en) | End-to-end compiler: lexer → LALR(1) parser → semantic analysis → code generator | Lexical analysis (DFA/tokenization), context-free grammars, LALR(1) parsing tables, syntax-directed translation, symbol tables | Python |
-| [Self-Balancing Binary Search Tree Suite](https://github.com/Shhb-Coder-1999/data-structures-cpp) | Data Structures · Sup. [Prof. Rajaei](https://scholar.google.com/citations?user=UjqIDvkAAAAJ&hl=en) | AVL Tree and Red-Black Tree built from scratch with full insertion, deletion, and rotation logic | BST properties, AVL rotations & balance factors, Red-Black tree invariants, tree traversal, amortized complexity | C++ |
-| [Speech Feature Extractor & Speaker Verifier](https://github.com/Shhb-Coder-1999/Speech-Signal-Processing-using-python) | Multimedia Systems · Sup. [Prof. Rajaei](https://scholar.google.com/citations?user=UjqIDvkAAAAJ&hl=en) | Audio pipeline that extracts MFCC/LPC features from .wav recordings and compares speakers via Dynamic Time Warping | MFCC feature extraction, Linear Predictive Coding (LPC), Dynamic Time Warping (DTW), zero-crossing rate, spectral analysis | Python · librosa · NumPy · SciPy |
-| [Real-Time IoT Device Monitor & Controller](https://github.com/Shhb-Coder-1999/iot-management-system) | Internet of Things · Sup. [Prof. Bakhtiari](https://scholar.google.com/citations?user=eYr8wlYAAAAJ&hl=en) | Real-time dashboard to monitor and control IoT devices and sensor data | IoT protocols (MQTT/HTTP), sensor data flows, device lifecycle management, REST API design, real-time event handling | Node.js · Vue.js |
-| [ARM Bare-Metal Peripheral Controller](https://github.com/Shhb-Coder-1999/Microprocessor-and-Assembly-language) | Microprocessor Architecture | Bare-metal LPC1768 programs: GPIO, timers, UART, PWM, ADC/DAC, interrupts | ARM Cortex-M3 architecture, peripheral registers, interrupt handling, timers/PWM, UART serial, ADC/DAC conversion, Keil toolchain | ARM Cortex-M3 · C |
-| [Patient, Staff & Billing Management System](https://github.com/Shhb-Coder-1999/Hospital-Management-System-OOP-Project) | OOP & Advanced Programming · Sup. [Prof. Shamsaee](https://www.linkedin.com/in/reza-shamsaee-ba6319115?originalSubdomain=ir) | Hospital management system covering patients, staff, and billing | Encapsulation, inheritance, polymorphism, abstraction, C++ streams, file I/O, UML class design | C++ · OOP |
-| [Python OOP, Algorithms & GUI App Exercises](https://github.com/Shhb-Coder-1999/Learn-Python) | OS Lab | Lab exercises covering OOP design, classic algorithms, desktop GUI apps, and SQLite integration | Python OOP, algorithm implementation, GUI programming (PyQt5), SQLite CRUD, event-driven design | Python · PyQt5 · SQLite |
-
----
 
 **Frontend**
 
