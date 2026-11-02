@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/shahabs789@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahabs789@gmail.com)
 [![Academic email](https://img.shields.io/badge/shahaboddin.shafiee@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahaboddin.shafiee@gmail.com)
 
-Software engineer with 4+ years in fintech and banking products. In industry, I kept noticing that the hard problems were human ones: how people use tools, where trust breaks, and what teams miss under delivery pressure. In the AI era, that gap feels wider.
+Software engineer with 5+ years in fintech and banking products. In industry, I kept noticing that the hard problems were human ones: how people use tools, where trust breaks, and what teams miss under delivery pressure. In the AI era, that gap feels wider.
 
 B.Sc. Computer Science, Sadjad University.
 
